@@ -32,8 +32,9 @@ plugins {
 
 sonarqube {
   properties {
-    property "sonar.projectKey", "jbarcia2019_CalidadSoftware"
-    property "sonar.organization", "jbarcia2019"
+    property "sonar.projectKey", "CalidadSoftware-GIS_G4-2122"
+    property "sonar.organization", "calidadsoftware-gis"
     property "sonar.host.url", "https://sonarcloud.io"
   }
+
 }
